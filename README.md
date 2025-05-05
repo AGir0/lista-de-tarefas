@@ -11,3 +11,4 @@ Um projeto simples para gerir uma lista de tarefas.
 - [ ] Ler os Maias
 - [ ] Organizar estante
 - [ ] Limpar chão
+- [ ] Ir à praia
